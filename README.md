@@ -1,4 +1,4 @@
-### Hi, I'm Mihira :)
+### Hi, I'm Mihira!
 - Currently a third-year Computer Science student at CCOEW, Pune.
 - I love exploring new tech, building projects that have a genuine positive impact, and recreating popular tools!
 - Proficient in Java and Python, but I'm interested in learning C++, Go and Rust as well <3
