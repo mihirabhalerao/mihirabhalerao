@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, I'm Mihira, a third-year Computer Science student in Pune!
+# I love exploring new tech, building tech that has a genuine positive impact, and recreating popular tools.
+# Proficient in Java and Python, but I'm interested in learning C++, Go and Rust as well!
 
 <!--
 **mihirabhalerao/mihirabhalerao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
